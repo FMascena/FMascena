@@ -1,14 +1,8 @@
 <h1 align="center">Olá! 👋, Sou Felipe Mascena</h1>
 <h3 align="center"><Full Stack Developer Jr/></h3>
 
-##
-
-<ul list-style-type="none" align="center">
-  <li>💻 Veja aqui todos os meus projetos</li>
-  <li>🎓 Aluno da Gama Academy Stack #Hacker</li>
-</ul>
-
- ##
+<h5 align="center"><💻 Veja aqui todos os meus projetos/></h5>
+<h5 align="center"><🎓 Aluno da Gama Academy Stack #Hacker/></h5>
 
 <p align="left">
 </p>
