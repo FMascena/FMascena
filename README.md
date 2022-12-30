@@ -2,8 +2,9 @@
 <h3 align="center"><Full Stack Developer Jr/></h3>
 
 <h4 align="center">💻 See all my projects here
-🎓 Student of Gama Academy Stack #Hacker
-👨‍💻 Visit [FMascena.my](https://portfolio-fmascena.vercel.app/)</h4>
+🎓 Student of Gama Academy Stack #Hacker</h4>
+
+👨‍💻 Visit [maykbrito.dev](https://maykbrito.dev)
 
 <p align="left">
 </p>
