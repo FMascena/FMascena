@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋, Sou Felipe Mascena</h1>
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Felipe Mascena</h1>
 <h3 align="center"><Full Stack Developer Jr/></h3>
 
 <h5 align="center">💻 Veja aqui todos os meus projetos
