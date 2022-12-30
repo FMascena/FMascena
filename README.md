@@ -3,9 +3,9 @@
 
 ##
 
-<ul align="center">
-  <li align="center">💻 Veja aqui todos os meus projetos</li>
-  <li align="center">🎓 Aluno da Gama Academy Stack #Hacker</li>
+<ul list-style-type="none" align="center">
+  <li>💻 Veja aqui todos os meus projetos</li>
+  <li>🎓 Aluno da Gama Academy Stack #Hacker</li>
 </ul>
 
  ##
