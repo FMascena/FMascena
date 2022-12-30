@@ -1,8 +1,8 @@
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Felipe Mascena</h1>
 <h3 align="center"><Full Stack Developer Jr/></h3>
 
-<h5 align="center">💻 Veja aqui todos os meus projetos
-🎓 Aluno da Gama Academy Stack #Hacker</h5>
+<h4 align="center">💻 Veja aqui todos os meus projetos
+🎓 Aluno da Gama Academy Stack #Hacker</h4>
 
 <p align="left">
 </p>
