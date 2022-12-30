@@ -3,7 +3,7 @@
 
 ##
 
-<ul>
+<ul align="center">
   <li>💻 Veja aqui todos os meus projetos</li>
   <li>🎓 Aluno da Gama Academy Stack #Hacker</li>
 </ul>
