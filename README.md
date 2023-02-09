@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Mascena - Dev Full Stack Jr</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Mascena - Web Developer</h1>
 <h3 align="left"><Web Developer/></h3>
 
 - 💻 See all my projects here
