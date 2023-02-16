@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Mascena - Web Developer</h1>
 <h3 align="left"><Web Developer/></h3>
 
+- 🤞 Expert in making memes, but since that doesn't make money, I'm a programmer
 - 💻 See all my projects here
 - 🎓 Student of Gama Academy Stack #Hacker
 - 👨‍💻 Visit [portfolio-fmascena](https://portfolio-fmascena.vercel.app/)
